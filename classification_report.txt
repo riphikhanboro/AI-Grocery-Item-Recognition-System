@@ -1,0 +1,66 @@
+                                             precision    recall  f1-score   support
+
+                  Packaged_Bhujia_Tana Bana       1.00      1.00      1.00         7
+              Packaged_Biscuit_Cream_Bounce       1.00      1.00      1.00         7
+                Packaged_Biscuit_Cream_Oreo       1.00      1.00      1.00         7
+       Packaged_Biscuit_Digestive_Britannia       1.00      1.00      1.00         7
+                       Packaged_Chips_Bingo       1.00      1.00      1.00         7
+               Packaged_Chips_Crunchy Bytes       1.00      0.57      0.73         7
+                     Packaged_Chips_Kurkure       0.88      1.00      0.93         7
+                     Packaged_Chips_Noodles       0.78      1.00      0.88         7
+                 Packaged_Chips_Tedhe Medhe       1.00      1.00      1.00         7
+                         Packaged_Milk_Amul       1.00      1.00      1.00         7
+                Packaged_Oil_Mustard_Anupam       1.00      1.00      1.00         7
+                 Packaged_Oil_Mustard_Nivaz       1.00      1.00      1.00         7
+                      Packaged_Oil_Soyabean       1.00      1.00      1.00         7
+                Unpackaged_Fresh herbs_Mint       1.00      0.93      0.97        15
+           Unpackaged_Fresh herbs_Pannywort       0.93      0.87      0.90        15
+          Unpackaged_Fresh herbs_Shunk Vine       0.71      1.00      0.83        15
+                    Unpackaged_Fruits_Apple       1.00      1.00      1.00        15
+              Unpackaged_Fruits_Banana_Bhim       0.94      1.00      0.97        15
+             Unpackaged_Fruits_Banana_Seeni       1.00      0.93      0.97        15
+           Unpackaged_Fruits_Elephant Apple       1.00      1.00      1.00        15
+               Unpackaged_Fruits_Gooseberry       1.00      0.93      0.97        15
+             Unpackaged_Fruits_Grapes_Black       1.00      1.00      1.00        15
+             Unpackaged_Fruits_Grapes_White       0.88      0.93      0.90        15
+                   Unpackaged_Fruits_Jujube       0.92      0.73      0.81        15
+              Unpackaged_Grains_Chira_Thick       1.00      0.07      0.12        15
+               Unpackaged_Grains_Chira_Thin       1.00      0.13      0.24        15
+              Unpackaged_Grains_Puffed Rice       0.80      0.80      0.80        15
+             Unpackaged_Grains_Rice_Basmati       0.83      1.00      0.91        15
+                Unpackaged_Grains_Rice_Bora       0.33      0.93      0.49        15
+                Unpackaged_Grains_Rice_Joha       1.00      0.40      0.57        15
+            Unpackaged_Pulses_Chickpea_Boot       0.75      1.00      0.86        15
+          Unpackaged_Pulses_Chickpea_Kabuli       1.00      0.27      0.42        15
+               Unpackaged_Pulses_Dal_Masoor       0.93      0.87      0.90        15
+                Unpackaged_Pulses_Dal_Moong       0.75      1.00      0.86        15
+                 Unpackaged_Pulses_Dry Peas       0.67      0.93      0.78        15
+                Unpackaged_Pulses_Mung Bean       0.75      1.00      0.86        15
+                 Unpackaged_Pulses_Soyabean       1.00      1.00      1.00        15
+                   Unpackaged_Seafood_Snail       0.94      1.00      0.97        15
+         Unpackaged_Specialty Food_Silkworm       1.00      1.00      1.00        15
+             Unpackaged_Spices_Black Pepper       1.00      1.00      1.00        15
+                   Unpackaged_Spices_Ginger       1.00      0.60      0.75        15
+              Unpackaged_Spices_Sesame Seed       1.00      1.00      1.00        15
+          Unpackaged_Vegetables_Bahok Teeta       1.00      1.00      1.00        15
+              Unpackaged_Vegetables_Brinjal       0.81      0.87      0.84        15
+              Unpackaged_Vegetables_Cabbage       0.93      0.93      0.93        15
+               Unpackaged_Vegetables_Carrot       1.00      1.00      1.00        15
+              Unpackaged_Vegetables_Cassava       1.00      1.00      1.00        15
+          Unpackaged_Vegetables_Cauliflower       1.00      0.93      0.97        15
+               Unpackaged_Vegetables_Dhania       0.91      0.67      0.77        15
+      Unpackaged_Vegetables_Fiddlehead Fern       1.00      0.73      0.85        15
+             Unpackaged_Vegetables_Mushroom       0.83      1.00      0.91        15
+                Unpackaged_Vegetables_Onion       1.00      0.87      0.93        15
+               Unpackaged_Vegetables_Potato       1.00      0.87      0.93        15
+              Unpackaged_Vegetables_Pumpkin       0.87      0.87      0.87        15
+              Unpackaged_Vegetables_Raddish       0.94      1.00      0.97        15
+              Unpackaged_Vegetables_Roselle       0.79      1.00      0.88        15
+Unpackaged_Vegetables_Sichuan Pepper Leaves       1.00      0.73      0.85        15
+          Unpackaged_Vegetables_Taro Leaves       0.78      0.93      0.85        15
+            Unpackaged_Vegetables_Taro Root       1.00      1.00      1.00        15
+               Unpackaged_Vegetables_Tomato       0.67      0.93      0.78        15
+
+                                   accuracy                           0.88       796
+                                  macro avg       0.92      0.89      0.88       796
+                               weighted avg       0.91      0.88      0.87       796
