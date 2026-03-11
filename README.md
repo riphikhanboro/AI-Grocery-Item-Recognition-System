@@ -55,7 +55,7 @@ Due to file size limitations, the dataset is not stored directly in this reposit
 
 The dataset used for training and evaluation can be downloaded from the following link:
 
-Dataset Link: https://drive.google.com/
+Dataset Link: The dataset used in the project is approximately 21.49 GB in size. Due to the unstable internet connctivity and cloud storage upload limitations, the dataset could not be uploaded at this time. The dataset will be uploaded to cloud storage and the link will be updated here soon
 
 ### Dataset Details
 
